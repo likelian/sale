@@ -1,6 +1,3 @@
-# sale
-
-
 
 | picture |  |  | 链接 | 价格 | 描述 |  |  |  |  |
 | -- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -14,5 +11,4 @@
 | | Fur Chair | 豆袋垫 | [Link](https://www.walmart.com/ip/Big-Joe-Chillum-Loveseat-Fuf-Chair/16923007) | $ |  |  |  |  |  |
 | | Rug 4' x 6’ | 地毯 | [Link](https://www.amazon.com/SAFAVIEH-Collection-Moroccan-Non-Shedding-Entryway/dp/B01M12RPE1) | $ |  |  |  |  | 
 | | Electric Soldering Iron Gun Tool Kit  | 焊接工具 | [Link](https://www.ebay.com/itm/293076031560) | $ |  |  |  |  | 
-| | Rug 4' x 6’ | 地毯 | [Link](https://www.amazon.com/SAFAVIEH-Collection-Moroccan-Non-Shedding-Entryway/dp/B01M12RPE1) | $ |  |  |  |  | 
 | | Xiaomi Mi 4C WIFI Router | 小米WiFi | [Link](https://www.ebay.com/itm/402658818424?hash=item5dc055f978:g:NPwAAOSwMj9gDd19) | $ |  |  |  |  | 
