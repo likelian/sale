@@ -1,5 +1,5 @@
 
-| |  |  | 链接 | 价格 | 描述 | 当前图片，点击放大 current pic， |  |  |  |
+| |  |  | 链接 | 价格 | 描述 | 当前图片，点击放大 current pic, click to open |  |  |  |
 | -- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | <img src="https://github.com/likelian/sale/blob/main/pic/fan.png" height="80" width="80" > | Holmes Tower Fan | 立式风扇 | [Link](https://www.target.com/p/holmes-31-34-manual-tower-oscillating-fan-black/-/A-84300313) | $ |  |  |  |  |  |
 | <img src="https://github.com/likelian/sale/blob/main/pic/stands.png" height="80" width="80" > | Studio Monitor Stands  | 音响架 | [Link](https://www.sweetwater.com/store/detail/MonitorStd--on-stage-stands-sms6000-p-studio-monitor-stands-pair) | $ |  |  |  |  |  |
