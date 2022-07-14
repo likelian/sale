@@ -2,7 +2,7 @@
 | picture |  |  | 链接 | 价格 | 描述 |  |  |  |  |
 | -- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | <img src="https://github.com/likelian/sale/blob/main/pic/fan.png" height="80" width="80" > | Holmes Tower Fan | 立式风扇 | [Link](https://www.target.com/p/holmes-31-34-manual-tower-oscillating-fan-black/-/A-84300313) | $ |  |  |  |  |  |
-|  | Studio Monitor Stands  | 音响架 | [Link](https://www.sweetwater.com/store/detail/MonitorStd--on-stage-stands-sms6000-p-studio-monitor-stands-pair) | $ |  |  |  |  |  |
+| <img src="https://github.com/likelian/sale/blob/main/pic/fan.png" height="80" width="80" > | Studio Monitor Stands  | 音响架 | [Link](https://www.sweetwater.com/store/detail/MonitorStd--on-stage-stands-sms6000-p-studio-monitor-stands-pair) | $ |  |  |  |  |  |
 |  | Folding Portable Mesh Chair | 户外折叠椅 | [Link](https://www.amazon.com/gp/product/B07GP6875S/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1) | $ |  |  |  |  |  |
 |  | Adjustable Dumbbells | 哑铃 | [Link](https://www.amazon.com/gp/product/B08KJHX6BY/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) | $ |  |  |  |  |  |
 |  | 61-key MIDI Controller Keyboard | MIDI键盘 | [Link](https://www.sweetwater.com/store/detail/ImpactiX61--nektar-impact-ix61-61-key-midi-controller-keyboard) | $ |  |  |  |  |  |
